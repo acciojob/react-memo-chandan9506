@@ -1,4 +1,3 @@
-
 import React, { useMemo, useState } from 'react';
 
 const UseMemo = () => {
@@ -49,4 +48,4 @@ const UseMemo = () => {
     );
 };
 
-export default UseMemo
+export default UseMemo;
